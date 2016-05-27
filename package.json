@@ -1,0 +1,14 @@
+{
+  "name": "poker",
+  "version": "1.0.0",
+  "description": "poker code club",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "“Gareth <“gmidwood@gmail.com”> (http://www.garethmidwood.co.uk/)",
+  "license": "ISC",
+  "dependencies": {
+    "poker-holdem-engine": "^1.1.3"
+  }
+}
